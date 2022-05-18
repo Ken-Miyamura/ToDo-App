@@ -1,0 +1,1 @@
+(()=>{"use strict";(new class{mount(){const e=document.getElementById("jsForm"),t=document.getElementById("jsFormInput");e.addEventListener("submit",(e=>{e.preventDefault(),console.log(`入力値の値：${t.value}`)}))}}).mount()})();
